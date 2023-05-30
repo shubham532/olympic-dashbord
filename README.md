@@ -1,2 +1,2 @@
 # olympic-dashbord
-Tableau dash bord of olymics upto 2014
+Tableau dash bord of olympics upto 2014
